@@ -4,3 +4,5 @@ github.com/asgteach/myStrmod v1.0.1 h1:d5jogMdjRtQ8bAx7HkBidOHv5DF/QJBUdjTQH5R9X
 github.com/asgteach/myStrmod v1.0.1/go.mod h1:eYXePJ8uZabq4kL4NbC4y3nQCqsplA3I+WVozZt0nWI=
 github.com/asgteach/myStrmod v1.1.0 h1:DFYvOTe/7kKceNgTtNTQGGsNBBLmlYJo/decP7/UTnI=
 github.com/asgteach/myStrmod v1.1.0/go.mod h1:eYXePJ8uZabq4kL4NbC4y3nQCqsplA3I+WVozZt0nWI=
+github.com/asgteach/myStrmod/v2 v2.0.0 h1:i1AcGhp5ucbjrHl9O8+7jBfM4iwIAuiFE/j7Y20EFRI=
+github.com/asgteach/myStrmod/v2 v2.0.0/go.mod h1:mB+10V88khbiywg+hXvFLPm+zZ7IAJV5wsMAUJmgfWc=
